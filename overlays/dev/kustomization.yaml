@@ -3,7 +3,7 @@ kind: Kustomization
 images:
 - name: 061039804626.dkr.ecr.ap-northeast-2.amazonaws.com/stu20-demo-frontend
   newName: 061039804626.dkr.ecr.ap-northeast-2.amazonaws.com/stu20-demo-frontend
-  newTag: afadd272
+  newTag: b5760d28
 resources:
 - ../../base
 patchesStrategicMerge:
